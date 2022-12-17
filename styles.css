@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.section-1 {
+    background-color: #1F2937;
+    padding: 20px 100px 120px 100px;
+    
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 100px;
+}
+
+.head-logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.main {
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
+}
+
+.head-link {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.text-pic {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+button {
+    background-color: #3882F6;
+    border-radius: 12px;
+    margin-top: 10px;
+    padding: 10px 40px;
+    color: #F9FAF8;
+}
+
+ul {
+   list-style: none;
+   display: flex; 
+   gap: 15px;
+}
