@@ -50,3 +50,31 @@ ul {
    display: flex; 
    gap: 15px;
 }
+
+
+
+.sec-2-head {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937;
+}
+
+.sec-2-pics {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.pic {
+    width: 150px;
+    text-align: center;
+}
+
+.tree {
+    border: #3882F6 2px solid;
+    border-radius: 12px
+}
+
