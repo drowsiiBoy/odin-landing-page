@@ -51,7 +51,9 @@ ul {
    gap: 15px;
 }
 
-
+.section-2{
+    height: 418px;
+}
 
 .sec-2-head {
     text-align: center;
@@ -75,6 +77,43 @@ ul {
 
 .tree {
     border: #3882F6 2px solid;
-    border-radius: 12px
+    border-radius: 12px;
 }
 
+.section-3 {
+    background-color: #E5E7EB;
+    height: 418px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+blockquote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1F2937;
+    width: 1000px;
+}
+
+.section-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 418px;
+    gap: 100px;
+}
+
+.call-to-action {
+     display: flex;
+     background-color: #3882F6;
+     padding: 40px 120px;
+     border-radius: 12px;
+     color: #F9FAF8;
+}
+
+.section-4-button {
+    margin-left: 80px;
+    border: #F9FAF8 solid 2px;
+    font-weight: bold;
+}
